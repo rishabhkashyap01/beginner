@@ -14,6 +14,9 @@ int quickSort(int arr[], int high, int low){
   temp = arr[high];
   arr[high] = pivot;
   
-  
+int main(){
+  array=[3,4,5,6,7];
+
+}  
 
 }
